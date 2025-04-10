@@ -3,23 +3,18 @@ import time
 def n_chiffres(n,f):
     start = time.time()
 
-    fichier = open(f, "r")
-    d = fichier.read()
-    fichier.close()
+    with open(f, "r") as fichier:
+        d = fichier.read()
 
-    lst = []
+    sequence = set()
     for i in range(len(d)-n+1):
-        l = ""
-        for j in range(n):
-            l += str(d[i+j])
-        if not l in lst:
-            print(l)
-            lst.append(l)
+        l = d[i:i+n]
+        sequence.add(l)
 
         
     print(f"durée d'execution : {time.time() - start}")
 
-    return len(lst)
+    return len(sequence)
 
 
 n = int(input("n : "))

@@ -1,3 +1,4 @@
 puissance 2, nombres 5 chiffres (1 million de decimales):   99 995
 pi , nombres 5 chiffres (1 million de decimales):   99 992
 pi , nombres 6 chiffres (1 million de deciamles): 631 548 (1 heure et 12 min)
+puissance 2, nombres 6 chiffres (1 million de decimales): 632 683 (1 heure et 10 minutes)

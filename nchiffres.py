@@ -33,5 +33,3 @@ def n_chiffres(n, f):
     return c
 
 
-print(n_chiffres(5, "carree.txt"))
-

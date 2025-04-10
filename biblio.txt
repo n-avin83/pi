@@ -1,0 +1,2 @@
+puissance 2, nombres 5 chiffres (1 million de decimales):   99 995
+pi , nombres 5 chiffres (1 million de decimales):   99 992

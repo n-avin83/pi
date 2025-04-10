@@ -22,4 +22,7 @@ def n_chiffres(n,f):
     return len(lst)
 
 
-print(n_chiffres(5, "carree_1M.txt"))
+n = int(input("n : "))
+f = input("fichier : ")
+
+print(n_chiffres(n,f))

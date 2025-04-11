@@ -17,3 +17,13 @@ def test(f):
             c += 1
 
     return c
+
+
+
+if __name__ == "__main__":
+    # Test de la fonction
+    f = "pi_test.txt"
+    erreur = test(f)
+    print(f"Nombre d'erreurs : {erreur}")
+
+    

@@ -1,31 +1,50 @@
-from decimal import Decimal, getcontext
-import math
 import time
-import sys
-sys.set_int_max_str_digits(0)
+import gmpy2
+from gmpy2 import mpz, mpq, mpfr, fac, sqrt, get_context
 
-def chudnovski(d):
-    getcontext().prec = d + 2
-    C = 426880 * Decimal(math.sqrt(10005))
-    K = Decimal(6*0)
-    M = Decimal(1)
-    X = Decimal(1)
-    L = Decimal(13591409)
-    S = L
+def chudnovsky_term(k):
+    """Calcule le k-ième terme de la série de Chudnovsky."""
+    # Constantes
+    C = 426880 * sqrt(mpfr(10005))
+    
+    # Termes du numérateur et dénominateur
+    numerator = mpz(fac(6*k)) * (545140134*k + 13591409)
+    denominator = mpz(fac(3*k)) * (fac(k)**3) * (mpz(640320)**(3*k))
 
-    for k in range(1, d//14):
-        K += 12
-        M *= (K**3 - 16*K) / (k**3)
-        L += 545140134
-        X *= -262537412640768000
-        S += Decimal(M * L) / X
-
-    pi = C/S
-    return str(pi)[:d + 2]
+    return mpq(numerator, denominator)
 
 
-start = time.time()
-fichier= open("pi_chudnovski.txt", "w")
-fichier.write(str(chudnovski(1000000)))
-fichier.close()
-print(time.time() - start)
+def calcule_pi_chudnovsky(D):
+    """Calcule π avec D décimales de précision grâce à la formule de Chudnovsky."""
+    get_context().precision = D * 4  # sécurité
+    total = mpq(0)
+    k = 0
+
+    # Combien de termes pour D décimales ? Environ D / 14
+    max_k = D // 14 + 1
+
+    for k in range(max_k):
+        term = chudnovsky_term(k)
+        if k % 2 == 1:
+            total -= term
+        else:
+            total += term
+
+    C = 426880 * sqrt(mpfr(10005))
+    pi = C / total
+    return +pi
+
+
+if __name__ == "__main__":
+    D = 1_000_000  # décimales souhaitées
+    start = time.time()
+
+    pi = calcule_pi_chudnovsky(D)
+
+    # Sauvegarde efficace
+    with open("pi_chudnovsky.txt", "w") as f:
+        pi_str = str(pi)
+        for i in range(0, len(pi_str), 10000):
+            f.write(pi_str[i:i+10000] + "\n")
+
+    print(f"Temps total : {time.time() - start:.2f} secondes")

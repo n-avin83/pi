@@ -1,6 +1,8 @@
 import time
 import gmpy2
 from gmpy2 import mpz, mpq, mpfr, fac, sqrt, get_context
+import sys
+sys.set_int_max_str_digits(0)
 
 def chudnovsky_term(k):
     """Calcule le k-ième terme de la série de Chudnovsky."""
@@ -43,8 +45,6 @@ if __name__ == "__main__":
 
     # Sauvegarde efficace
     with open("pi_chudnovsky.txt", "w") as f:
-        pi_str = str(pi)
-        for i in range(0, len(pi_str), 10000):
-            f.write(pi_str[i:i+10000] + "\n")
+        f.write(str(pi))
 
     print(f"Temps total : {time.time() - start:.2f} secondes")

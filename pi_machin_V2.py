@@ -59,8 +59,6 @@ if __name__ == "__main__":
 
     # Sauvegarde en blocs
     with open("pi_machin.txt", "w") as f:
-        pi_str = str(pi)
-        for i in range(0, len(pi_str), 10000):
-            f.write(pi_str[i:i+10000] + "\n")
+        f.write(str(pi))
 
     print(f"Temps total : {time.time() - start:.2f} secondes")

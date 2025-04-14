@@ -8,9 +8,10 @@ def calcule_serie_1(D):
     terme = 16 * 10**D // 5
     pi_approx = 0
     k = 0
+    puissance = -25 
     while terme != 0:
         pi_approx += terme // (2 * k + 1)
-        terme //= -25
+        terme //= puissance
         k += 1
     return pi_approx
 

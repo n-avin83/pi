@@ -16,8 +16,8 @@ def n_chiffres(n,f):
 
     return len(sequence)
 
+if __name__ == "__main__":
+    n = int(input("n : "))
+    f = input("fichier : ")
 
-n = int(input("n : "))
-f = input("fichier : ")
-
-print(n_chiffres(n,f))
+    print(n_chiffres(n,f))

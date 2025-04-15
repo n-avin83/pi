@@ -1,0 +1,2001 @@
+fichier,n chiffres,nb de sequences
+1 million de pi.txt,1,10
+carree_1M.txt,1,10
+1 million de pi.txt,2,100
+carree_1M.txt,2,100
+1 million de pi.txt,3,1000
+carree_1M.txt,3,1000
+1 million de pi.txt,4,10000
+carree_1M.txt,4,10000
+1 million de pi.txt,5,99992
+carree_1M.txt,5,99995
+1 million de pi.txt,6,631548
+carree_1M.txt,6,632683
+1 million de pi.txt,7,951285
+carree_1M.txt,7,952245
+1 million de pi.txt,8,994979
+carree_1M.txt,8,995280
+1 million de pi.txt,9,999473
+carree_1M.txt,9,999563
+1 million de pi.txt,10,999946
+carree_1M.txt,10,999939
+1 million de pi.txt,11,999984
+carree_1M.txt,11,999984
+1 million de pi.txt,12,999989
+carree_1M.txt,12,999989
+1 million de pi.txt,13,999989
+carree_1M.txt,13,999988
+1 million de pi.txt,14,999988
+carree_1M.txt,14,999987
+1 million de pi.txt,15,999987
+carree_1M.txt,15,999986
+1 million de pi.txt,16,999986
+carree_1M.txt,16,999985
+1 million de pi.txt,17,999985
+carree_1M.txt,17,999984
+1 million de pi.txt,18,999984
+carree_1M.txt,18,999983
+1 million de pi.txt,19,999983
+carree_1M.txt,19,999982
+1 million de pi.txt,20,999982
+carree_1M.txt,20,999981
+1 million de pi.txt,21,999981
+carree_1M.txt,21,999980
+1 million de pi.txt,22,999980
+carree_1M.txt,22,999979
+1 million de pi.txt,23,999979
+carree_1M.txt,23,999978
+1 million de pi.txt,24,999978
+carree_1M.txt,24,999977
+1 million de pi.txt,25,999977
+carree_1M.txt,25,999976
+1 million de pi.txt,26,999976
+carree_1M.txt,26,999975
+1 million de pi.txt,27,999975
+carree_1M.txt,27,999974
+1 million de pi.txt,28,999974
+carree_1M.txt,28,999973
+1 million de pi.txt,29,999973
+carree_1M.txt,29,999972
+1 million de pi.txt,30,999972
+carree_1M.txt,30,999971
+1 million de pi.txt,31,999971
+carree_1M.txt,31,999970
+1 million de pi.txt,32,999970
+carree_1M.txt,32,999969
+1 million de pi.txt,33,999969
+carree_1M.txt,33,999968
+1 million de pi.txt,34,999968
+carree_1M.txt,34,999967
+1 million de pi.txt,35,999967
+carree_1M.txt,35,999966
+1 million de pi.txt,36,999966
+carree_1M.txt,36,999965
+1 million de pi.txt,37,999965
+carree_1M.txt,37,999964
+1 million de pi.txt,38,999964
+carree_1M.txt,38,999963
+1 million de pi.txt,39,999963
+carree_1M.txt,39,999962
+1 million de pi.txt,40,999962
+carree_1M.txt,40,999961
+1 million de pi.txt,41,999961
+carree_1M.txt,41,999960
+1 million de pi.txt,42,999960
+carree_1M.txt,42,999959
+1 million de pi.txt,43,999959
+carree_1M.txt,43,999958
+1 million de pi.txt,44,999958
+carree_1M.txt,44,999957
+1 million de pi.txt,45,999957
+carree_1M.txt,45,999956
+1 million de pi.txt,46,999956
+carree_1M.txt,46,999955
+1 million de pi.txt,47,999955
+carree_1M.txt,47,999954
+1 million de pi.txt,48,999954
+carree_1M.txt,48,999953
+1 million de pi.txt,49,999953
+carree_1M.txt,49,999952
+1 million de pi.txt,50,999952
+carree_1M.txt,50,999951
+1 million de pi.txt,51,999951
+carree_1M.txt,51,999950
+1 million de pi.txt,52,999950
+carree_1M.txt,52,999949
+1 million de pi.txt,53,999949
+carree_1M.txt,53,999948
+1 million de pi.txt,54,999948
+carree_1M.txt,54,999947
+1 million de pi.txt,55,999947
+carree_1M.txt,55,999946
+1 million de pi.txt,56,999946
+carree_1M.txt,56,999945
+1 million de pi.txt,57,999945
+carree_1M.txt,57,999944
+1 million de pi.txt,58,999944
+carree_1M.txt,58,999943
+1 million de pi.txt,59,999943
+carree_1M.txt,59,999942
+1 million de pi.txt,60,999942
+carree_1M.txt,60,999941
+1 million de pi.txt,61,999941
+carree_1M.txt,61,999940
+1 million de pi.txt,62,999940
+carree_1M.txt,62,999939
+1 million de pi.txt,63,999939
+carree_1M.txt,63,999938
+1 million de pi.txt,64,999938
+carree_1M.txt,64,999937
+1 million de pi.txt,65,999937
+carree_1M.txt,65,999936
+1 million de pi.txt,66,999936
+carree_1M.txt,66,999935
+1 million de pi.txt,67,999935
+carree_1M.txt,67,999934
+1 million de pi.txt,68,999934
+carree_1M.txt,68,999933
+1 million de pi.txt,69,999933
+carree_1M.txt,69,999932
+1 million de pi.txt,70,999932
+carree_1M.txt,70,999931
+1 million de pi.txt,71,999931
+carree_1M.txt,71,999930
+1 million de pi.txt,72,999930
+carree_1M.txt,72,999929
+1 million de pi.txt,73,999929
+carree_1M.txt,73,999928
+1 million de pi.txt,74,999928
+carree_1M.txt,74,999927
+1 million de pi.txt,75,999927
+carree_1M.txt,75,999926
+1 million de pi.txt,76,999926
+carree_1M.txt,76,999925
+1 million de pi.txt,77,999925
+carree_1M.txt,77,999924
+1 million de pi.txt,78,999924
+carree_1M.txt,78,999923
+1 million de pi.txt,79,999923
+carree_1M.txt,79,999922
+1 million de pi.txt,80,999922
+carree_1M.txt,80,999921
+1 million de pi.txt,81,999921
+carree_1M.txt,81,999920
+1 million de pi.txt,82,999920
+carree_1M.txt,82,999919
+1 million de pi.txt,83,999919
+carree_1M.txt,83,999918
+1 million de pi.txt,84,999918
+carree_1M.txt,84,999917
+1 million de pi.txt,85,999917
+carree_1M.txt,85,999916
+1 million de pi.txt,86,999916
+carree_1M.txt,86,999915
+1 million de pi.txt,87,999915
+carree_1M.txt,87,999914
+1 million de pi.txt,88,999914
+carree_1M.txt,88,999913
+1 million de pi.txt,89,999913
+carree_1M.txt,89,999912
+1 million de pi.txt,90,999912
+carree_1M.txt,90,999911
+1 million de pi.txt,91,999911
+carree_1M.txt,91,999910
+1 million de pi.txt,92,999910
+carree_1M.txt,92,999909
+1 million de pi.txt,93,999909
+carree_1M.txt,93,999908
+1 million de pi.txt,94,999908
+carree_1M.txt,94,999907
+1 million de pi.txt,95,999907
+carree_1M.txt,95,999906
+1 million de pi.txt,96,999906
+carree_1M.txt,96,999905
+1 million de pi.txt,97,999905
+carree_1M.txt,97,999904
+1 million de pi.txt,98,999904
+carree_1M.txt,98,999903
+1 million de pi.txt,99,999903
+carree_1M.txt,99,999902
+1 million de pi.txt,100,999902
+carree_1M.txt,100,999901
+1 million de pi.txt,101,999901
+carree_1M.txt,101,999900
+1 million de pi.txt,102,999900
+carree_1M.txt,102,999899
+1 million de pi.txt,103,999899
+carree_1M.txt,103,999898
+1 million de pi.txt,104,999898
+carree_1M.txt,104,999897
+1 million de pi.txt,105,999897
+carree_1M.txt,105,999896
+1 million de pi.txt,106,999896
+carree_1M.txt,106,999895
+1 million de pi.txt,107,999895
+carree_1M.txt,107,999894
+1 million de pi.txt,108,999894
+carree_1M.txt,108,999893
+1 million de pi.txt,109,999893
+carree_1M.txt,109,999892
+1 million de pi.txt,110,999892
+carree_1M.txt,110,999891
+1 million de pi.txt,111,999891
+carree_1M.txt,111,999890
+1 million de pi.txt,112,999890
+carree_1M.txt,112,999889
+1 million de pi.txt,113,999889
+carree_1M.txt,113,999888
+1 million de pi.txt,114,999888
+carree_1M.txt,114,999887
+1 million de pi.txt,115,999887
+carree_1M.txt,115,999886
+1 million de pi.txt,116,999886
+carree_1M.txt,116,999885
+1 million de pi.txt,117,999885
+carree_1M.txt,117,999884
+1 million de pi.txt,118,999884
+carree_1M.txt,118,999883
+1 million de pi.txt,119,999883
+carree_1M.txt,119,999882
+1 million de pi.txt,120,999882
+carree_1M.txt,120,999881
+1 million de pi.txt,121,999881
+carree_1M.txt,121,999880
+1 million de pi.txt,122,999880
+carree_1M.txt,122,999879
+1 million de pi.txt,123,999879
+carree_1M.txt,123,999878
+1 million de pi.txt,124,999878
+carree_1M.txt,124,999877
+1 million de pi.txt,125,999877
+carree_1M.txt,125,999876
+1 million de pi.txt,126,999876
+carree_1M.txt,126,999875
+1 million de pi.txt,127,999875
+carree_1M.txt,127,999874
+1 million de pi.txt,128,999874
+carree_1M.txt,128,999873
+1 million de pi.txt,129,999873
+carree_1M.txt,129,999872
+1 million de pi.txt,130,999872
+carree_1M.txt,130,999871
+1 million de pi.txt,131,999871
+carree_1M.txt,131,999870
+1 million de pi.txt,132,999870
+carree_1M.txt,132,999869
+1 million de pi.txt,133,999869
+carree_1M.txt,133,999868
+1 million de pi.txt,134,999868
+carree_1M.txt,134,999867
+1 million de pi.txt,135,999867
+carree_1M.txt,135,999866
+1 million de pi.txt,136,999866
+carree_1M.txt,136,999865
+1 million de pi.txt,137,999865
+carree_1M.txt,137,999864
+1 million de pi.txt,138,999864
+carree_1M.txt,138,999863
+1 million de pi.txt,139,999863
+carree_1M.txt,139,999862
+1 million de pi.txt,140,999862
+carree_1M.txt,140,999861
+1 million de pi.txt,141,999861
+carree_1M.txt,141,999860
+1 million de pi.txt,142,999860
+carree_1M.txt,142,999859
+1 million de pi.txt,143,999859
+carree_1M.txt,143,999858
+1 million de pi.txt,144,999858
+carree_1M.txt,144,999857
+1 million de pi.txt,145,999857
+carree_1M.txt,145,999856
+1 million de pi.txt,146,999856
+carree_1M.txt,146,999855
+1 million de pi.txt,147,999855
+carree_1M.txt,147,999854
+1 million de pi.txt,148,999854
+carree_1M.txt,148,999853
+1 million de pi.txt,149,999853
+carree_1M.txt,149,999852
+1 million de pi.txt,150,999852
+carree_1M.txt,150,999851
+1 million de pi.txt,151,999851
+carree_1M.txt,151,999850
+1 million de pi.txt,152,999850
+carree_1M.txt,152,999849
+1 million de pi.txt,153,999849
+carree_1M.txt,153,999848
+1 million de pi.txt,154,999848
+carree_1M.txt,154,999847
+1 million de pi.txt,155,999847
+carree_1M.txt,155,999846
+1 million de pi.txt,156,999846
+carree_1M.txt,156,999845
+1 million de pi.txt,157,999845
+carree_1M.txt,157,999844
+1 million de pi.txt,158,999844
+carree_1M.txt,158,999843
+1 million de pi.txt,159,999843
+carree_1M.txt,159,999842
+1 million de pi.txt,160,999842
+carree_1M.txt,160,999841
+1 million de pi.txt,161,999841
+carree_1M.txt,161,999840
+1 million de pi.txt,162,999840
+carree_1M.txt,162,999839
+1 million de pi.txt,163,999839
+carree_1M.txt,163,999838
+1 million de pi.txt,164,999838
+carree_1M.txt,164,999837
+1 million de pi.txt,165,999837
+carree_1M.txt,165,999836
+1 million de pi.txt,166,999836
+carree_1M.txt,166,999835
+1 million de pi.txt,167,999835
+carree_1M.txt,167,999834
+1 million de pi.txt,168,999834
+carree_1M.txt,168,999833
+1 million de pi.txt,169,999833
+carree_1M.txt,169,999832
+1 million de pi.txt,170,999832
+carree_1M.txt,170,999831
+1 million de pi.txt,171,999831
+carree_1M.txt,171,999830
+1 million de pi.txt,172,999830
+carree_1M.txt,172,999829
+1 million de pi.txt,173,999829
+carree_1M.txt,173,999828
+1 million de pi.txt,174,999828
+carree_1M.txt,174,999827
+1 million de pi.txt,175,999827
+carree_1M.txt,175,999826
+1 million de pi.txt,176,999826
+carree_1M.txt,176,999825
+1 million de pi.txt,177,999825
+carree_1M.txt,177,999824
+1 million de pi.txt,178,999824
+carree_1M.txt,178,999823
+1 million de pi.txt,179,999823
+carree_1M.txt,179,999822
+1 million de pi.txt,180,999822
+carree_1M.txt,180,999821
+1 million de pi.txt,181,999821
+carree_1M.txt,181,999820
+1 million de pi.txt,182,999820
+carree_1M.txt,182,999819
+1 million de pi.txt,183,999819
+carree_1M.txt,183,999818
+1 million de pi.txt,184,999818
+carree_1M.txt,184,999817
+1 million de pi.txt,185,999817
+carree_1M.txt,185,999816
+1 million de pi.txt,186,999816
+carree_1M.txt,186,999815
+1 million de pi.txt,187,999815
+carree_1M.txt,187,999814
+1 million de pi.txt,188,999814
+carree_1M.txt,188,999813
+1 million de pi.txt,189,999813
+carree_1M.txt,189,999812
+1 million de pi.txt,190,999812
+carree_1M.txt,190,999811
+1 million de pi.txt,191,999811
+carree_1M.txt,191,999810
+1 million de pi.txt,192,999810
+carree_1M.txt,192,999809
+1 million de pi.txt,193,999809
+carree_1M.txt,193,999808
+1 million de pi.txt,194,999808
+carree_1M.txt,194,999807
+1 million de pi.txt,195,999807
+carree_1M.txt,195,999806
+1 million de pi.txt,196,999806
+carree_1M.txt,196,999805
+1 million de pi.txt,197,999805
+carree_1M.txt,197,999804
+1 million de pi.txt,198,999804
+carree_1M.txt,198,999803
+1 million de pi.txt,199,999803
+carree_1M.txt,199,999802
+1 million de pi.txt,200,999802
+carree_1M.txt,200,999801
+1 million de pi.txt,201,999801
+carree_1M.txt,201,999800
+1 million de pi.txt,202,999800
+carree_1M.txt,202,999799
+1 million de pi.txt,203,999799
+carree_1M.txt,203,999798
+1 million de pi.txt,204,999798
+carree_1M.txt,204,999797
+1 million de pi.txt,205,999797
+carree_1M.txt,205,999796
+1 million de pi.txt,206,999796
+carree_1M.txt,206,999795
+1 million de pi.txt,207,999795
+carree_1M.txt,207,999794
+1 million de pi.txt,208,999794
+carree_1M.txt,208,999793
+1 million de pi.txt,209,999793
+carree_1M.txt,209,999792
+1 million de pi.txt,210,999792
+carree_1M.txt,210,999791
+1 million de pi.txt,211,999791
+carree_1M.txt,211,999790
+1 million de pi.txt,212,999790
+carree_1M.txt,212,999789
+1 million de pi.txt,213,999789
+carree_1M.txt,213,999788
+1 million de pi.txt,214,999788
+carree_1M.txt,214,999787
+1 million de pi.txt,215,999787
+carree_1M.txt,215,999786
+1 million de pi.txt,216,999786
+carree_1M.txt,216,999785
+1 million de pi.txt,217,999785
+carree_1M.txt,217,999784
+1 million de pi.txt,218,999784
+carree_1M.txt,218,999783
+1 million de pi.txt,219,999783
+carree_1M.txt,219,999782
+1 million de pi.txt,220,999782
+carree_1M.txt,220,999781
+1 million de pi.txt,221,999781
+carree_1M.txt,221,999780
+1 million de pi.txt,222,999780
+carree_1M.txt,222,999779
+1 million de pi.txt,223,999779
+carree_1M.txt,223,999778
+1 million de pi.txt,224,999778
+carree_1M.txt,224,999777
+1 million de pi.txt,225,999777
+carree_1M.txt,225,999776
+1 million de pi.txt,226,999776
+carree_1M.txt,226,999775
+1 million de pi.txt,227,999775
+carree_1M.txt,227,999774
+1 million de pi.txt,228,999774
+carree_1M.txt,228,999773
+1 million de pi.txt,229,999773
+carree_1M.txt,229,999772
+1 million de pi.txt,230,999772
+carree_1M.txt,230,999771
+1 million de pi.txt,231,999771
+carree_1M.txt,231,999770
+1 million de pi.txt,232,999770
+carree_1M.txt,232,999769
+1 million de pi.txt,233,999769
+carree_1M.txt,233,999768
+1 million de pi.txt,234,999768
+carree_1M.txt,234,999767
+1 million de pi.txt,235,999767
+carree_1M.txt,235,999766
+1 million de pi.txt,236,999766
+carree_1M.txt,236,999765
+1 million de pi.txt,237,999765
+carree_1M.txt,237,999764
+1 million de pi.txt,238,999764
+carree_1M.txt,238,999763
+1 million de pi.txt,239,999763
+carree_1M.txt,239,999762
+1 million de pi.txt,240,999762
+carree_1M.txt,240,999761
+1 million de pi.txt,241,999761
+carree_1M.txt,241,999760
+1 million de pi.txt,242,999760
+carree_1M.txt,242,999759
+1 million de pi.txt,243,999759
+carree_1M.txt,243,999758
+1 million de pi.txt,244,999758
+carree_1M.txt,244,999757
+1 million de pi.txt,245,999757
+carree_1M.txt,245,999756
+1 million de pi.txt,246,999756
+carree_1M.txt,246,999755
+1 million de pi.txt,247,999755
+carree_1M.txt,247,999754
+1 million de pi.txt,248,999754
+carree_1M.txt,248,999753
+1 million de pi.txt,249,999753
+carree_1M.txt,249,999752
+1 million de pi.txt,250,999752
+carree_1M.txt,250,999751
+1 million de pi.txt,251,999751
+carree_1M.txt,251,999750
+1 million de pi.txt,252,999750
+carree_1M.txt,252,999749
+1 million de pi.txt,253,999749
+carree_1M.txt,253,999748
+1 million de pi.txt,254,999748
+carree_1M.txt,254,999747
+1 million de pi.txt,255,999747
+carree_1M.txt,255,999746
+1 million de pi.txt,256,999746
+carree_1M.txt,256,999745
+1 million de pi.txt,257,999745
+carree_1M.txt,257,999744
+1 million de pi.txt,258,999744
+carree_1M.txt,258,999743
+1 million de pi.txt,259,999743
+carree_1M.txt,259,999742
+1 million de pi.txt,260,999742
+carree_1M.txt,260,999741
+1 million de pi.txt,261,999741
+carree_1M.txt,261,999740
+1 million de pi.txt,262,999740
+carree_1M.txt,262,999739
+1 million de pi.txt,263,999739
+carree_1M.txt,263,999738
+1 million de pi.txt,264,999738
+carree_1M.txt,264,999737
+1 million de pi.txt,265,999737
+carree_1M.txt,265,999736
+1 million de pi.txt,266,999736
+carree_1M.txt,266,999735
+1 million de pi.txt,267,999735
+carree_1M.txt,267,999734
+1 million de pi.txt,268,999734
+carree_1M.txt,268,999733
+1 million de pi.txt,269,999733
+carree_1M.txt,269,999732
+1 million de pi.txt,270,999732
+carree_1M.txt,270,999731
+1 million de pi.txt,271,999731
+carree_1M.txt,271,999730
+1 million de pi.txt,272,999730
+carree_1M.txt,272,999729
+1 million de pi.txt,273,999729
+carree_1M.txt,273,999728
+1 million de pi.txt,274,999728
+carree_1M.txt,274,999727
+1 million de pi.txt,275,999727
+carree_1M.txt,275,999726
+1 million de pi.txt,276,999726
+carree_1M.txt,276,999725
+1 million de pi.txt,277,999725
+carree_1M.txt,277,999724
+1 million de pi.txt,278,999724
+carree_1M.txt,278,999723
+1 million de pi.txt,279,999723
+carree_1M.txt,279,999722
+1 million de pi.txt,280,999722
+carree_1M.txt,280,999721
+1 million de pi.txt,281,999721
+carree_1M.txt,281,999720
+1 million de pi.txt,282,999720
+carree_1M.txt,282,999719
+1 million de pi.txt,283,999719
+carree_1M.txt,283,999718
+1 million de pi.txt,284,999718
+carree_1M.txt,284,999717
+1 million de pi.txt,285,999717
+carree_1M.txt,285,999716
+1 million de pi.txt,286,999716
+carree_1M.txt,286,999715
+1 million de pi.txt,287,999715
+carree_1M.txt,287,999714
+1 million de pi.txt,288,999714
+carree_1M.txt,288,999713
+1 million de pi.txt,289,999713
+carree_1M.txt,289,999712
+1 million de pi.txt,290,999712
+carree_1M.txt,290,999711
+1 million de pi.txt,291,999711
+carree_1M.txt,291,999710
+1 million de pi.txt,292,999710
+carree_1M.txt,292,999709
+1 million de pi.txt,293,999709
+carree_1M.txt,293,999708
+1 million de pi.txt,294,999708
+carree_1M.txt,294,999707
+1 million de pi.txt,295,999707
+carree_1M.txt,295,999706
+1 million de pi.txt,296,999706
+carree_1M.txt,296,999705
+1 million de pi.txt,297,999705
+carree_1M.txt,297,999704
+1 million de pi.txt,298,999704
+carree_1M.txt,298,999703
+1 million de pi.txt,299,999703
+carree_1M.txt,299,999702
+1 million de pi.txt,300,999702
+carree_1M.txt,300,999701
+1 million de pi.txt,301,999701
+carree_1M.txt,301,999700
+1 million de pi.txt,302,999700
+carree_1M.txt,302,999699
+1 million de pi.txt,303,999699
+carree_1M.txt,303,999698
+1 million de pi.txt,304,999698
+carree_1M.txt,304,999697
+1 million de pi.txt,305,999697
+carree_1M.txt,305,999696
+1 million de pi.txt,306,999696
+carree_1M.txt,306,999695
+1 million de pi.txt,307,999695
+carree_1M.txt,307,999694
+1 million de pi.txt,308,999694
+carree_1M.txt,308,999693
+1 million de pi.txt,309,999693
+carree_1M.txt,309,999692
+1 million de pi.txt,310,999692
+carree_1M.txt,310,999691
+1 million de pi.txt,311,999691
+carree_1M.txt,311,999690
+1 million de pi.txt,312,999690
+carree_1M.txt,312,999689
+1 million de pi.txt,313,999689
+carree_1M.txt,313,999688
+1 million de pi.txt,314,999688
+carree_1M.txt,314,999687
+1 million de pi.txt,315,999687
+carree_1M.txt,315,999686
+1 million de pi.txt,316,999686
+carree_1M.txt,316,999685
+1 million de pi.txt,317,999685
+carree_1M.txt,317,999684
+1 million de pi.txt,318,999684
+carree_1M.txt,318,999683
+1 million de pi.txt,319,999683
+carree_1M.txt,319,999682
+1 million de pi.txt,320,999682
+carree_1M.txt,320,999681
+1 million de pi.txt,321,999681
+carree_1M.txt,321,999680
+1 million de pi.txt,322,999680
+carree_1M.txt,322,999679
+1 million de pi.txt,323,999679
+carree_1M.txt,323,999678
+1 million de pi.txt,324,999678
+carree_1M.txt,324,999677
+1 million de pi.txt,325,999677
+carree_1M.txt,325,999676
+1 million de pi.txt,326,999676
+carree_1M.txt,326,999675
+1 million de pi.txt,327,999675
+carree_1M.txt,327,999674
+1 million de pi.txt,328,999674
+carree_1M.txt,328,999673
+1 million de pi.txt,329,999673
+carree_1M.txt,329,999672
+1 million de pi.txt,330,999672
+carree_1M.txt,330,999671
+1 million de pi.txt,331,999671
+carree_1M.txt,331,999670
+1 million de pi.txt,332,999670
+carree_1M.txt,332,999669
+1 million de pi.txt,333,999669
+carree_1M.txt,333,999668
+1 million de pi.txt,334,999668
+carree_1M.txt,334,999667
+1 million de pi.txt,335,999667
+carree_1M.txt,335,999666
+1 million de pi.txt,336,999666
+carree_1M.txt,336,999665
+1 million de pi.txt,337,999665
+carree_1M.txt,337,999664
+1 million de pi.txt,338,999664
+carree_1M.txt,338,999663
+1 million de pi.txt,339,999663
+carree_1M.txt,339,999662
+1 million de pi.txt,340,999662
+carree_1M.txt,340,999661
+1 million de pi.txt,341,999661
+carree_1M.txt,341,999660
+1 million de pi.txt,342,999660
+carree_1M.txt,342,999659
+1 million de pi.txt,343,999659
+carree_1M.txt,343,999658
+1 million de pi.txt,344,999658
+carree_1M.txt,344,999657
+1 million de pi.txt,345,999657
+carree_1M.txt,345,999656
+1 million de pi.txt,346,999656
+carree_1M.txt,346,999655
+1 million de pi.txt,347,999655
+carree_1M.txt,347,999654
+1 million de pi.txt,348,999654
+carree_1M.txt,348,999653
+1 million de pi.txt,349,999653
+carree_1M.txt,349,999652
+1 million de pi.txt,350,999652
+carree_1M.txt,350,999651
+1 million de pi.txt,351,999651
+carree_1M.txt,351,999650
+1 million de pi.txt,352,999650
+carree_1M.txt,352,999649
+1 million de pi.txt,353,999649
+carree_1M.txt,353,999648
+1 million de pi.txt,354,999648
+carree_1M.txt,354,999647
+1 million de pi.txt,355,999647
+carree_1M.txt,355,999646
+1 million de pi.txt,356,999646
+carree_1M.txt,356,999645
+1 million de pi.txt,357,999645
+carree_1M.txt,357,999644
+1 million de pi.txt,358,999644
+carree_1M.txt,358,999643
+1 million de pi.txt,359,999643
+carree_1M.txt,359,999642
+1 million de pi.txt,360,999642
+carree_1M.txt,360,999641
+1 million de pi.txt,361,999641
+carree_1M.txt,361,999640
+1 million de pi.txt,362,999640
+carree_1M.txt,362,999639
+1 million de pi.txt,363,999639
+carree_1M.txt,363,999638
+1 million de pi.txt,364,999638
+carree_1M.txt,364,999637
+1 million de pi.txt,365,999637
+carree_1M.txt,365,999636
+1 million de pi.txt,366,999636
+carree_1M.txt,366,999635
+1 million de pi.txt,367,999635
+carree_1M.txt,367,999634
+1 million de pi.txt,368,999634
+carree_1M.txt,368,999633
+1 million de pi.txt,369,999633
+carree_1M.txt,369,999632
+1 million de pi.txt,370,999632
+carree_1M.txt,370,999631
+1 million de pi.txt,371,999631
+carree_1M.txt,371,999630
+1 million de pi.txt,372,999630
+carree_1M.txt,372,999629
+1 million de pi.txt,373,999629
+carree_1M.txt,373,999628
+1 million de pi.txt,374,999628
+carree_1M.txt,374,999627
+1 million de pi.txt,375,999627
+carree_1M.txt,375,999626
+1 million de pi.txt,376,999626
+carree_1M.txt,376,999625
+1 million de pi.txt,377,999625
+carree_1M.txt,377,999624
+1 million de pi.txt,378,999624
+carree_1M.txt,378,999623
+1 million de pi.txt,379,999623
+carree_1M.txt,379,999622
+1 million de pi.txt,380,999622
+carree_1M.txt,380,999621
+1 million de pi.txt,381,999621
+carree_1M.txt,381,999620
+1 million de pi.txt,382,999620
+carree_1M.txt,382,999619
+1 million de pi.txt,383,999619
+carree_1M.txt,383,999618
+1 million de pi.txt,384,999618
+carree_1M.txt,384,999617
+1 million de pi.txt,385,999617
+carree_1M.txt,385,999616
+1 million de pi.txt,386,999616
+carree_1M.txt,386,999615
+1 million de pi.txt,387,999615
+carree_1M.txt,387,999614
+1 million de pi.txt,388,999614
+carree_1M.txt,388,999613
+1 million de pi.txt,389,999613
+carree_1M.txt,389,999612
+1 million de pi.txt,390,999612
+carree_1M.txt,390,999611
+1 million de pi.txt,391,999611
+carree_1M.txt,391,999610
+1 million de pi.txt,392,999610
+carree_1M.txt,392,999609
+1 million de pi.txt,393,999609
+carree_1M.txt,393,999608
+1 million de pi.txt,394,999608
+carree_1M.txt,394,999607
+1 million de pi.txt,395,999607
+carree_1M.txt,395,999606
+1 million de pi.txt,396,999606
+carree_1M.txt,396,999605
+1 million de pi.txt,397,999605
+carree_1M.txt,397,999604
+1 million de pi.txt,398,999604
+carree_1M.txt,398,999603
+1 million de pi.txt,399,999603
+carree_1M.txt,399,999602
+1 million de pi.txt,400,999602
+carree_1M.txt,400,999601
+1 million de pi.txt,401,999601
+carree_1M.txt,401,999600
+1 million de pi.txt,402,999600
+carree_1M.txt,402,999599
+1 million de pi.txt,403,999599
+carree_1M.txt,403,999598
+1 million de pi.txt,404,999598
+carree_1M.txt,404,999597
+1 million de pi.txt,405,999597
+carree_1M.txt,405,999596
+1 million de pi.txt,406,999596
+carree_1M.txt,406,999595
+1 million de pi.txt,407,999595
+carree_1M.txt,407,999594
+1 million de pi.txt,408,999594
+carree_1M.txt,408,999593
+1 million de pi.txt,409,999593
+carree_1M.txt,409,999592
+1 million de pi.txt,410,999592
+carree_1M.txt,410,999591
+1 million de pi.txt,411,999591
+carree_1M.txt,411,999590
+1 million de pi.txt,412,999590
+carree_1M.txt,412,999589
+1 million de pi.txt,413,999589
+carree_1M.txt,413,999588
+1 million de pi.txt,414,999588
+carree_1M.txt,414,999587
+1 million de pi.txt,415,999587
+carree_1M.txt,415,999586
+1 million de pi.txt,416,999586
+carree_1M.txt,416,999585
+1 million de pi.txt,417,999585
+carree_1M.txt,417,999584
+1 million de pi.txt,418,999584
+carree_1M.txt,418,999583
+1 million de pi.txt,419,999583
+carree_1M.txt,419,999582
+1 million de pi.txt,420,999582
+carree_1M.txt,420,999581
+1 million de pi.txt,421,999581
+carree_1M.txt,421,999580
+1 million de pi.txt,422,999580
+carree_1M.txt,422,999579
+1 million de pi.txt,423,999579
+carree_1M.txt,423,999578
+1 million de pi.txt,424,999578
+carree_1M.txt,424,999577
+1 million de pi.txt,425,999577
+carree_1M.txt,425,999576
+1 million de pi.txt,426,999576
+carree_1M.txt,426,999575
+1 million de pi.txt,427,999575
+carree_1M.txt,427,999574
+1 million de pi.txt,428,999574
+carree_1M.txt,428,999573
+1 million de pi.txt,429,999573
+carree_1M.txt,429,999572
+1 million de pi.txt,430,999572
+carree_1M.txt,430,999571
+1 million de pi.txt,431,999571
+carree_1M.txt,431,999570
+1 million de pi.txt,432,999570
+carree_1M.txt,432,999569
+1 million de pi.txt,433,999569
+carree_1M.txt,433,999568
+1 million de pi.txt,434,999568
+carree_1M.txt,434,999567
+1 million de pi.txt,435,999567
+carree_1M.txt,435,999566
+1 million de pi.txt,436,999566
+carree_1M.txt,436,999565
+1 million de pi.txt,437,999565
+carree_1M.txt,437,999564
+1 million de pi.txt,438,999564
+carree_1M.txt,438,999563
+1 million de pi.txt,439,999563
+carree_1M.txt,439,999562
+1 million de pi.txt,440,999562
+carree_1M.txt,440,999561
+1 million de pi.txt,441,999561
+carree_1M.txt,441,999560
+1 million de pi.txt,442,999560
+carree_1M.txt,442,999559
+1 million de pi.txt,443,999559
+carree_1M.txt,443,999558
+1 million de pi.txt,444,999558
+carree_1M.txt,444,999557
+1 million de pi.txt,445,999557
+carree_1M.txt,445,999556
+1 million de pi.txt,446,999556
+carree_1M.txt,446,999555
+1 million de pi.txt,447,999555
+carree_1M.txt,447,999554
+1 million de pi.txt,448,999554
+carree_1M.txt,448,999553
+1 million de pi.txt,449,999553
+carree_1M.txt,449,999552
+1 million de pi.txt,450,999552
+carree_1M.txt,450,999551
+1 million de pi.txt,451,999551
+carree_1M.txt,451,999550
+1 million de pi.txt,452,999550
+carree_1M.txt,452,999549
+1 million de pi.txt,453,999549
+carree_1M.txt,453,999548
+1 million de pi.txt,454,999548
+carree_1M.txt,454,999547
+1 million de pi.txt,455,999547
+carree_1M.txt,455,999546
+1 million de pi.txt,456,999546
+carree_1M.txt,456,999545
+1 million de pi.txt,457,999545
+carree_1M.txt,457,999544
+1 million de pi.txt,458,999544
+carree_1M.txt,458,999543
+1 million de pi.txt,459,999543
+carree_1M.txt,459,999542
+1 million de pi.txt,460,999542
+carree_1M.txt,460,999541
+1 million de pi.txt,461,999541
+carree_1M.txt,461,999540
+1 million de pi.txt,462,999540
+carree_1M.txt,462,999539
+1 million de pi.txt,463,999539
+carree_1M.txt,463,999538
+1 million de pi.txt,464,999538
+carree_1M.txt,464,999537
+1 million de pi.txt,465,999537
+carree_1M.txt,465,999536
+1 million de pi.txt,466,999536
+carree_1M.txt,466,999535
+1 million de pi.txt,467,999535
+carree_1M.txt,467,999534
+1 million de pi.txt,468,999534
+carree_1M.txt,468,999533
+1 million de pi.txt,469,999533
+carree_1M.txt,469,999532
+1 million de pi.txt,470,999532
+carree_1M.txt,470,999531
+1 million de pi.txt,471,999531
+carree_1M.txt,471,999530
+1 million de pi.txt,472,999530
+carree_1M.txt,472,999529
+1 million de pi.txt,473,999529
+carree_1M.txt,473,999528
+1 million de pi.txt,474,999528
+carree_1M.txt,474,999527
+1 million de pi.txt,475,999527
+carree_1M.txt,475,999526
+1 million de pi.txt,476,999526
+carree_1M.txt,476,999525
+1 million de pi.txt,477,999525
+carree_1M.txt,477,999524
+1 million de pi.txt,478,999524
+carree_1M.txt,478,999523
+1 million de pi.txt,479,999523
+carree_1M.txt,479,999522
+1 million de pi.txt,480,999522
+carree_1M.txt,480,999521
+1 million de pi.txt,481,999521
+carree_1M.txt,481,999520
+1 million de pi.txt,482,999520
+carree_1M.txt,482,999519
+1 million de pi.txt,483,999519
+carree_1M.txt,483,999518
+1 million de pi.txt,484,999518
+carree_1M.txt,484,999517
+1 million de pi.txt,485,999517
+carree_1M.txt,485,999516
+1 million de pi.txt,486,999516
+carree_1M.txt,486,999515
+1 million de pi.txt,487,999515
+carree_1M.txt,487,999514
+1 million de pi.txt,488,999514
+carree_1M.txt,488,999513
+1 million de pi.txt,489,999513
+carree_1M.txt,489,999512
+1 million de pi.txt,490,999512
+carree_1M.txt,490,999511
+1 million de pi.txt,491,999511
+carree_1M.txt,491,999510
+1 million de pi.txt,492,999510
+carree_1M.txt,492,999509
+1 million de pi.txt,493,999509
+carree_1M.txt,493,999508
+1 million de pi.txt,494,999508
+carree_1M.txt,494,999507
+1 million de pi.txt,495,999507
+carree_1M.txt,495,999506
+1 million de pi.txt,496,999506
+carree_1M.txt,496,999505
+1 million de pi.txt,497,999505
+carree_1M.txt,497,999504
+1 million de pi.txt,498,999504
+carree_1M.txt,498,999503
+1 million de pi.txt,499,999503
+carree_1M.txt,499,999502
+1 million de pi.txt,500,999502
+carree_1M.txt,500,999501
+1 million de pi.txt,501,999501
+carree_1M.txt,501,999500
+1 million de pi.txt,502,999500
+carree_1M.txt,502,999499
+1 million de pi.txt,503,999499
+carree_1M.txt,503,999498
+1 million de pi.txt,504,999498
+carree_1M.txt,504,999497
+1 million de pi.txt,505,999497
+carree_1M.txt,505,999496
+1 million de pi.txt,506,999496
+carree_1M.txt,506,999495
+1 million de pi.txt,507,999495
+carree_1M.txt,507,999494
+1 million de pi.txt,508,999494
+carree_1M.txt,508,999493
+1 million de pi.txt,509,999493
+carree_1M.txt,509,999492
+1 million de pi.txt,510,999492
+carree_1M.txt,510,999491
+1 million de pi.txt,511,999491
+carree_1M.txt,511,999490
+1 million de pi.txt,512,999490
+carree_1M.txt,512,999489
+1 million de pi.txt,513,999489
+carree_1M.txt,513,999488
+1 million de pi.txt,514,999488
+carree_1M.txt,514,999487
+1 million de pi.txt,515,999487
+carree_1M.txt,515,999486
+1 million de pi.txt,516,999486
+carree_1M.txt,516,999485
+1 million de pi.txt,517,999485
+carree_1M.txt,517,999484
+1 million de pi.txt,518,999484
+carree_1M.txt,518,999483
+1 million de pi.txt,519,999483
+carree_1M.txt,519,999482
+1 million de pi.txt,520,999482
+carree_1M.txt,520,999481
+1 million de pi.txt,521,999481
+carree_1M.txt,521,999480
+1 million de pi.txt,522,999480
+carree_1M.txt,522,999479
+1 million de pi.txt,523,999479
+carree_1M.txt,523,999478
+1 million de pi.txt,524,999478
+carree_1M.txt,524,999477
+1 million de pi.txt,525,999477
+carree_1M.txt,525,999476
+1 million de pi.txt,526,999476
+carree_1M.txt,526,999475
+1 million de pi.txt,527,999475
+carree_1M.txt,527,999474
+1 million de pi.txt,528,999474
+carree_1M.txt,528,999473
+1 million de pi.txt,529,999473
+carree_1M.txt,529,999472
+1 million de pi.txt,530,999472
+carree_1M.txt,530,999471
+1 million de pi.txt,531,999471
+carree_1M.txt,531,999470
+1 million de pi.txt,532,999470
+carree_1M.txt,532,999469
+1 million de pi.txt,533,999469
+carree_1M.txt,533,999468
+1 million de pi.txt,534,999468
+carree_1M.txt,534,999467
+1 million de pi.txt,535,999467
+carree_1M.txt,535,999466
+1 million de pi.txt,536,999466
+carree_1M.txt,536,999465
+1 million de pi.txt,537,999465
+carree_1M.txt,537,999464
+1 million de pi.txt,538,999464
+carree_1M.txt,538,999463
+1 million de pi.txt,539,999463
+carree_1M.txt,539,999462
+1 million de pi.txt,540,999462
+carree_1M.txt,540,999461
+1 million de pi.txt,541,999461
+carree_1M.txt,541,999460
+1 million de pi.txt,542,999460
+carree_1M.txt,542,999459
+1 million de pi.txt,543,999459
+carree_1M.txt,543,999458
+1 million de pi.txt,544,999458
+carree_1M.txt,544,999457
+1 million de pi.txt,545,999457
+carree_1M.txt,545,999456
+1 million de pi.txt,546,999456
+carree_1M.txt,546,999455
+1 million de pi.txt,547,999455
+carree_1M.txt,547,999454
+1 million de pi.txt,548,999454
+carree_1M.txt,548,999453
+1 million de pi.txt,549,999453
+carree_1M.txt,549,999452
+1 million de pi.txt,550,999452
+carree_1M.txt,550,999451
+1 million de pi.txt,551,999451
+carree_1M.txt,551,999450
+1 million de pi.txt,552,999450
+carree_1M.txt,552,999449
+1 million de pi.txt,553,999449
+carree_1M.txt,553,999448
+1 million de pi.txt,554,999448
+carree_1M.txt,554,999447
+1 million de pi.txt,555,999447
+carree_1M.txt,555,999446
+1 million de pi.txt,556,999446
+carree_1M.txt,556,999445
+1 million de pi.txt,557,999445
+carree_1M.txt,557,999444
+1 million de pi.txt,558,999444
+carree_1M.txt,558,999443
+1 million de pi.txt,559,999443
+carree_1M.txt,559,999442
+1 million de pi.txt,560,999442
+carree_1M.txt,560,999441
+1 million de pi.txt,561,999441
+carree_1M.txt,561,999440
+1 million de pi.txt,562,999440
+carree_1M.txt,562,999439
+1 million de pi.txt,563,999439
+carree_1M.txt,563,999438
+1 million de pi.txt,564,999438
+carree_1M.txt,564,999437
+1 million de pi.txt,565,999437
+carree_1M.txt,565,999436
+1 million de pi.txt,566,999436
+carree_1M.txt,566,999435
+1 million de pi.txt,567,999435
+carree_1M.txt,567,999434
+1 million de pi.txt,568,999434
+carree_1M.txt,568,999433
+1 million de pi.txt,569,999433
+carree_1M.txt,569,999432
+1 million de pi.txt,570,999432
+carree_1M.txt,570,999431
+1 million de pi.txt,571,999431
+carree_1M.txt,571,999430
+1 million de pi.txt,572,999430
+carree_1M.txt,572,999429
+1 million de pi.txt,573,999429
+carree_1M.txt,573,999428
+1 million de pi.txt,574,999428
+carree_1M.txt,574,999427
+1 million de pi.txt,575,999427
+carree_1M.txt,575,999426
+1 million de pi.txt,576,999426
+carree_1M.txt,576,999425
+1 million de pi.txt,577,999425
+carree_1M.txt,577,999424
+1 million de pi.txt,578,999424
+carree_1M.txt,578,999423
+1 million de pi.txt,579,999423
+carree_1M.txt,579,999422
+1 million de pi.txt,580,999422
+carree_1M.txt,580,999421
+1 million de pi.txt,581,999421
+carree_1M.txt,581,999420
+1 million de pi.txt,582,999420
+carree_1M.txt,582,999419
+1 million de pi.txt,583,999419
+carree_1M.txt,583,999418
+1 million de pi.txt,584,999418
+carree_1M.txt,584,999417
+1 million de pi.txt,585,999417
+carree_1M.txt,585,999416
+1 million de pi.txt,586,999416
+carree_1M.txt,586,999415
+1 million de pi.txt,587,999415
+carree_1M.txt,587,999414
+1 million de pi.txt,588,999414
+carree_1M.txt,588,999413
+1 million de pi.txt,589,999413
+carree_1M.txt,589,999412
+1 million de pi.txt,590,999412
+carree_1M.txt,590,999411
+1 million de pi.txt,591,999411
+carree_1M.txt,591,999410
+1 million de pi.txt,592,999410
+carree_1M.txt,592,999409
+1 million de pi.txt,593,999409
+carree_1M.txt,593,999408
+1 million de pi.txt,594,999408
+carree_1M.txt,594,999407
+1 million de pi.txt,595,999407
+carree_1M.txt,595,999406
+1 million de pi.txt,596,999406
+carree_1M.txt,596,999405
+1 million de pi.txt,597,999405
+carree_1M.txt,597,999404
+1 million de pi.txt,598,999404
+carree_1M.txt,598,999403
+1 million de pi.txt,599,999403
+carree_1M.txt,599,999402
+1 million de pi.txt,600,999402
+carree_1M.txt,600,999401
+1 million de pi.txt,601,999401
+carree_1M.txt,601,999400
+1 million de pi.txt,602,999400
+carree_1M.txt,602,999399
+1 million de pi.txt,603,999399
+carree_1M.txt,603,999398
+1 million de pi.txt,604,999398
+carree_1M.txt,604,999397
+1 million de pi.txt,605,999397
+carree_1M.txt,605,999396
+1 million de pi.txt,606,999396
+carree_1M.txt,606,999395
+1 million de pi.txt,607,999395
+carree_1M.txt,607,999394
+1 million de pi.txt,608,999394
+carree_1M.txt,608,999393
+1 million de pi.txt,609,999393
+carree_1M.txt,609,999392
+1 million de pi.txt,610,999392
+carree_1M.txt,610,999391
+1 million de pi.txt,611,999391
+carree_1M.txt,611,999390
+1 million de pi.txt,612,999390
+carree_1M.txt,612,999389
+1 million de pi.txt,613,999389
+carree_1M.txt,613,999388
+1 million de pi.txt,614,999388
+carree_1M.txt,614,999387
+1 million de pi.txt,615,999387
+carree_1M.txt,615,999386
+1 million de pi.txt,616,999386
+carree_1M.txt,616,999385
+1 million de pi.txt,617,999385
+carree_1M.txt,617,999384
+1 million de pi.txt,618,999384
+carree_1M.txt,618,999383
+1 million de pi.txt,619,999383
+carree_1M.txt,619,999382
+1 million de pi.txt,620,999382
+carree_1M.txt,620,999381
+1 million de pi.txt,621,999381
+carree_1M.txt,621,999380
+1 million de pi.txt,622,999380
+carree_1M.txt,622,999379
+1 million de pi.txt,623,999379
+carree_1M.txt,623,999378
+1 million de pi.txt,624,999378
+carree_1M.txt,624,999377
+1 million de pi.txt,625,999377
+carree_1M.txt,625,999376
+1 million de pi.txt,626,999376
+carree_1M.txt,626,999375
+1 million de pi.txt,627,999375
+carree_1M.txt,627,999374
+1 million de pi.txt,628,999374
+carree_1M.txt,628,999373
+1 million de pi.txt,629,999373
+carree_1M.txt,629,999372
+1 million de pi.txt,630,999372
+carree_1M.txt,630,999371
+1 million de pi.txt,631,999371
+carree_1M.txt,631,999370
+1 million de pi.txt,632,999370
+carree_1M.txt,632,999369
+1 million de pi.txt,633,999369
+carree_1M.txt,633,999368
+1 million de pi.txt,634,999368
+carree_1M.txt,634,999367
+1 million de pi.txt,635,999367
+carree_1M.txt,635,999366
+1 million de pi.txt,636,999366
+carree_1M.txt,636,999365
+1 million de pi.txt,637,999365
+carree_1M.txt,637,999364
+1 million de pi.txt,638,999364
+carree_1M.txt,638,999363
+1 million de pi.txt,639,999363
+carree_1M.txt,639,999362
+1 million de pi.txt,640,999362
+carree_1M.txt,640,999361
+1 million de pi.txt,641,999361
+carree_1M.txt,641,999360
+1 million de pi.txt,642,999360
+carree_1M.txt,642,999359
+1 million de pi.txt,643,999359
+carree_1M.txt,643,999358
+1 million de pi.txt,644,999358
+carree_1M.txt,644,999357
+1 million de pi.txt,645,999357
+carree_1M.txt,645,999356
+1 million de pi.txt,646,999356
+carree_1M.txt,646,999355
+1 million de pi.txt,647,999355
+carree_1M.txt,647,999354
+1 million de pi.txt,648,999354
+carree_1M.txt,648,999353
+1 million de pi.txt,649,999353
+carree_1M.txt,649,999352
+1 million de pi.txt,650,999352
+carree_1M.txt,650,999351
+1 million de pi.txt,651,999351
+carree_1M.txt,651,999350
+1 million de pi.txt,652,999350
+carree_1M.txt,652,999349
+1 million de pi.txt,653,999349
+carree_1M.txt,653,999348
+1 million de pi.txt,654,999348
+carree_1M.txt,654,999347
+1 million de pi.txt,655,999347
+carree_1M.txt,655,999346
+1 million de pi.txt,656,999346
+carree_1M.txt,656,999345
+1 million de pi.txt,657,999345
+carree_1M.txt,657,999344
+1 million de pi.txt,658,999344
+carree_1M.txt,658,999343
+1 million de pi.txt,659,999343
+carree_1M.txt,659,999342
+1 million de pi.txt,660,999342
+carree_1M.txt,660,999341
+1 million de pi.txt,661,999341
+carree_1M.txt,661,999340
+1 million de pi.txt,662,999340
+carree_1M.txt,662,999339
+1 million de pi.txt,663,999339
+carree_1M.txt,663,999338
+1 million de pi.txt,664,999338
+carree_1M.txt,664,999337
+1 million de pi.txt,665,999337
+carree_1M.txt,665,999336
+1 million de pi.txt,666,999336
+carree_1M.txt,666,999335
+1 million de pi.txt,667,999335
+carree_1M.txt,667,999334
+1 million de pi.txt,668,999334
+carree_1M.txt,668,999333
+1 million de pi.txt,669,999333
+carree_1M.txt,669,999332
+1 million de pi.txt,670,999332
+carree_1M.txt,670,999331
+1 million de pi.txt,671,999331
+carree_1M.txt,671,999330
+1 million de pi.txt,672,999330
+carree_1M.txt,672,999329
+1 million de pi.txt,673,999329
+carree_1M.txt,673,999328
+1 million de pi.txt,674,999328
+carree_1M.txt,674,999327
+1 million de pi.txt,675,999327
+carree_1M.txt,675,999326
+1 million de pi.txt,676,999326
+carree_1M.txt,676,999325
+1 million de pi.txt,677,999325
+carree_1M.txt,677,999324
+1 million de pi.txt,678,999324
+carree_1M.txt,678,999323
+1 million de pi.txt,679,999323
+carree_1M.txt,679,999322
+1 million de pi.txt,680,999322
+carree_1M.txt,680,999321
+1 million de pi.txt,681,999321
+carree_1M.txt,681,999320
+1 million de pi.txt,682,999320
+carree_1M.txt,682,999319
+1 million de pi.txt,683,999319
+carree_1M.txt,683,999318
+1 million de pi.txt,684,999318
+carree_1M.txt,684,999317
+1 million de pi.txt,685,999317
+carree_1M.txt,685,999316
+1 million de pi.txt,686,999316
+carree_1M.txt,686,999315
+1 million de pi.txt,687,999315
+carree_1M.txt,687,999314
+1 million de pi.txt,688,999314
+carree_1M.txt,688,999313
+1 million de pi.txt,689,999313
+carree_1M.txt,689,999312
+1 million de pi.txt,690,999312
+carree_1M.txt,690,999311
+1 million de pi.txt,691,999311
+carree_1M.txt,691,999310
+1 million de pi.txt,692,999310
+carree_1M.txt,692,999309
+1 million de pi.txt,693,999309
+carree_1M.txt,693,999308
+1 million de pi.txt,694,999308
+carree_1M.txt,694,999307
+1 million de pi.txt,695,999307
+carree_1M.txt,695,999306
+1 million de pi.txt,696,999306
+carree_1M.txt,696,999305
+1 million de pi.txt,697,999305
+carree_1M.txt,697,999304
+1 million de pi.txt,698,999304
+carree_1M.txt,698,999303
+1 million de pi.txt,699,999303
+carree_1M.txt,699,999302
+1 million de pi.txt,700,999302
+carree_1M.txt,700,999301
+1 million de pi.txt,701,999301
+carree_1M.txt,701,999300
+1 million de pi.txt,702,999300
+carree_1M.txt,702,999299
+1 million de pi.txt,703,999299
+carree_1M.txt,703,999298
+1 million de pi.txt,704,999298
+carree_1M.txt,704,999297
+1 million de pi.txt,705,999297
+carree_1M.txt,705,999296
+1 million de pi.txt,706,999296
+carree_1M.txt,706,999295
+1 million de pi.txt,707,999295
+carree_1M.txt,707,999294
+1 million de pi.txt,708,999294
+carree_1M.txt,708,999293
+1 million de pi.txt,709,999293
+carree_1M.txt,709,999292
+1 million de pi.txt,710,999292
+carree_1M.txt,710,999291
+1 million de pi.txt,711,999291
+carree_1M.txt,711,999290
+1 million de pi.txt,712,999290
+carree_1M.txt,712,999289
+1 million de pi.txt,713,999289
+carree_1M.txt,713,999288
+1 million de pi.txt,714,999288
+carree_1M.txt,714,999287
+1 million de pi.txt,715,999287
+carree_1M.txt,715,999286
+1 million de pi.txt,716,999286
+carree_1M.txt,716,999285
+1 million de pi.txt,717,999285
+carree_1M.txt,717,999284
+1 million de pi.txt,718,999284
+carree_1M.txt,718,999283
+1 million de pi.txt,719,999283
+carree_1M.txt,719,999282
+1 million de pi.txt,720,999282
+carree_1M.txt,720,999281
+1 million de pi.txt,721,999281
+carree_1M.txt,721,999280
+1 million de pi.txt,722,999280
+carree_1M.txt,722,999279
+1 million de pi.txt,723,999279
+carree_1M.txt,723,999278
+1 million de pi.txt,724,999278
+carree_1M.txt,724,999277
+1 million de pi.txt,725,999277
+carree_1M.txt,725,999276
+1 million de pi.txt,726,999276
+carree_1M.txt,726,999275
+1 million de pi.txt,727,999275
+carree_1M.txt,727,999274
+1 million de pi.txt,728,999274
+carree_1M.txt,728,999273
+1 million de pi.txt,729,999273
+carree_1M.txt,729,999272
+1 million de pi.txt,730,999272
+carree_1M.txt,730,999271
+1 million de pi.txt,731,999271
+carree_1M.txt,731,999270
+1 million de pi.txt,732,999270
+carree_1M.txt,732,999269
+1 million de pi.txt,733,999269
+carree_1M.txt,733,999268
+1 million de pi.txt,734,999268
+carree_1M.txt,734,999267
+1 million de pi.txt,735,999267
+carree_1M.txt,735,999266
+1 million de pi.txt,736,999266
+carree_1M.txt,736,999265
+1 million de pi.txt,737,999265
+carree_1M.txt,737,999264
+1 million de pi.txt,738,999264
+carree_1M.txt,738,999263
+1 million de pi.txt,739,999263
+carree_1M.txt,739,999262
+1 million de pi.txt,740,999262
+carree_1M.txt,740,999261
+1 million de pi.txt,741,999261
+carree_1M.txt,741,999260
+1 million de pi.txt,742,999260
+carree_1M.txt,742,999259
+1 million de pi.txt,743,999259
+carree_1M.txt,743,999258
+1 million de pi.txt,744,999258
+carree_1M.txt,744,999257
+1 million de pi.txt,745,999257
+carree_1M.txt,745,999256
+1 million de pi.txt,746,999256
+carree_1M.txt,746,999255
+1 million de pi.txt,747,999255
+carree_1M.txt,747,999254
+1 million de pi.txt,748,999254
+carree_1M.txt,748,999253
+1 million de pi.txt,749,999253
+carree_1M.txt,749,999252
+1 million de pi.txt,750,999252
+carree_1M.txt,750,999251
+1 million de pi.txt,751,999251
+carree_1M.txt,751,999250
+1 million de pi.txt,752,999250
+carree_1M.txt,752,999249
+1 million de pi.txt,753,999249
+carree_1M.txt,753,999248
+1 million de pi.txt,754,999248
+carree_1M.txt,754,999247
+1 million de pi.txt,755,999247
+carree_1M.txt,755,999246
+1 million de pi.txt,756,999246
+carree_1M.txt,756,999245
+1 million de pi.txt,757,999245
+carree_1M.txt,757,999244
+1 million de pi.txt,758,999244
+carree_1M.txt,758,999243
+1 million de pi.txt,759,999243
+carree_1M.txt,759,999242
+1 million de pi.txt,760,999242
+carree_1M.txt,760,999241
+1 million de pi.txt,761,999241
+carree_1M.txt,761,999240
+1 million de pi.txt,762,999240
+carree_1M.txt,762,999239
+1 million de pi.txt,763,999239
+carree_1M.txt,763,999238
+1 million de pi.txt,764,999238
+carree_1M.txt,764,999237
+1 million de pi.txt,765,999237
+carree_1M.txt,765,999236
+1 million de pi.txt,766,999236
+carree_1M.txt,766,999235
+1 million de pi.txt,767,999235
+carree_1M.txt,767,999234
+1 million de pi.txt,768,999234
+carree_1M.txt,768,999233
+1 million de pi.txt,769,999233
+carree_1M.txt,769,999232
+1 million de pi.txt,770,999232
+carree_1M.txt,770,999231
+1 million de pi.txt,771,999231
+carree_1M.txt,771,999230
+1 million de pi.txt,772,999230
+carree_1M.txt,772,999229
+1 million de pi.txt,773,999229
+carree_1M.txt,773,999228
+1 million de pi.txt,774,999228
+carree_1M.txt,774,999227
+1 million de pi.txt,775,999227
+carree_1M.txt,775,999226
+1 million de pi.txt,776,999226
+carree_1M.txt,776,999225
+1 million de pi.txt,777,999225
+carree_1M.txt,777,999224
+1 million de pi.txt,778,999224
+carree_1M.txt,778,999223
+1 million de pi.txt,779,999223
+carree_1M.txt,779,999222
+1 million de pi.txt,780,999222
+carree_1M.txt,780,999221
+1 million de pi.txt,781,999221
+carree_1M.txt,781,999220
+1 million de pi.txt,782,999220
+carree_1M.txt,782,999219
+1 million de pi.txt,783,999219
+carree_1M.txt,783,999218
+1 million de pi.txt,784,999218
+carree_1M.txt,784,999217
+1 million de pi.txt,785,999217
+carree_1M.txt,785,999216
+1 million de pi.txt,786,999216
+carree_1M.txt,786,999215
+1 million de pi.txt,787,999215
+carree_1M.txt,787,999214
+1 million de pi.txt,788,999214
+carree_1M.txt,788,999213
+1 million de pi.txt,789,999213
+carree_1M.txt,789,999212
+1 million de pi.txt,790,999212
+carree_1M.txt,790,999211
+1 million de pi.txt,791,999211
+carree_1M.txt,791,999210
+1 million de pi.txt,792,999210
+carree_1M.txt,792,999209
+1 million de pi.txt,793,999209
+carree_1M.txt,793,999208
+1 million de pi.txt,794,999208
+carree_1M.txt,794,999207
+1 million de pi.txt,795,999207
+carree_1M.txt,795,999206
+1 million de pi.txt,796,999206
+carree_1M.txt,796,999205
+1 million de pi.txt,797,999205
+carree_1M.txt,797,999204
+1 million de pi.txt,798,999204
+carree_1M.txt,798,999203
+1 million de pi.txt,799,999203
+carree_1M.txt,799,999202
+1 million de pi.txt,800,999202
+carree_1M.txt,800,999201
+1 million de pi.txt,801,999201
+carree_1M.txt,801,999200
+1 million de pi.txt,802,999200
+carree_1M.txt,802,999199
+1 million de pi.txt,803,999199
+carree_1M.txt,803,999198
+1 million de pi.txt,804,999198
+carree_1M.txt,804,999197
+1 million de pi.txt,805,999197
+carree_1M.txt,805,999196
+1 million de pi.txt,806,999196
+carree_1M.txt,806,999195
+1 million de pi.txt,807,999195
+carree_1M.txt,807,999194
+1 million de pi.txt,808,999194
+carree_1M.txt,808,999193
+1 million de pi.txt,809,999193
+carree_1M.txt,809,999192
+1 million de pi.txt,810,999192
+carree_1M.txt,810,999191
+1 million de pi.txt,811,999191
+carree_1M.txt,811,999190
+1 million de pi.txt,812,999190
+carree_1M.txt,812,999189
+1 million de pi.txt,813,999189
+carree_1M.txt,813,999188
+1 million de pi.txt,814,999188
+carree_1M.txt,814,999187
+1 million de pi.txt,815,999187
+carree_1M.txt,815,999186
+1 million de pi.txt,816,999186
+carree_1M.txt,816,999185
+1 million de pi.txt,817,999185
+carree_1M.txt,817,999184
+1 million de pi.txt,818,999184
+carree_1M.txt,818,999183
+1 million de pi.txt,819,999183
+carree_1M.txt,819,999182
+1 million de pi.txt,820,999182
+carree_1M.txt,820,999181
+1 million de pi.txt,821,999181
+carree_1M.txt,821,999180
+1 million de pi.txt,822,999180
+carree_1M.txt,822,999179
+1 million de pi.txt,823,999179
+carree_1M.txt,823,999178
+1 million de pi.txt,824,999178
+carree_1M.txt,824,999177
+1 million de pi.txt,825,999177
+carree_1M.txt,825,999176
+1 million de pi.txt,826,999176
+carree_1M.txt,826,999175
+1 million de pi.txt,827,999175
+carree_1M.txt,827,999174
+1 million de pi.txt,828,999174
+carree_1M.txt,828,999173
+1 million de pi.txt,829,999173
+carree_1M.txt,829,999172
+1 million de pi.txt,830,999172
+carree_1M.txt,830,999171
+1 million de pi.txt,831,999171
+carree_1M.txt,831,999170
+1 million de pi.txt,832,999170
+carree_1M.txt,832,999169
+1 million de pi.txt,833,999169
+carree_1M.txt,833,999168
+1 million de pi.txt,834,999168
+carree_1M.txt,834,999167
+1 million de pi.txt,835,999167
+carree_1M.txt,835,999166
+1 million de pi.txt,836,999166
+carree_1M.txt,836,999165
+1 million de pi.txt,837,999165
+carree_1M.txt,837,999164
+1 million de pi.txt,838,999164
+carree_1M.txt,838,999163
+1 million de pi.txt,839,999163
+carree_1M.txt,839,999162
+1 million de pi.txt,840,999162
+carree_1M.txt,840,999161
+1 million de pi.txt,841,999161
+carree_1M.txt,841,999160
+1 million de pi.txt,842,999160
+carree_1M.txt,842,999159
+1 million de pi.txt,843,999159
+carree_1M.txt,843,999158
+1 million de pi.txt,844,999158
+carree_1M.txt,844,999157
+1 million de pi.txt,845,999157
+carree_1M.txt,845,999156
+1 million de pi.txt,846,999156
+carree_1M.txt,846,999155
+1 million de pi.txt,847,999155
+carree_1M.txt,847,999154
+1 million de pi.txt,848,999154
+carree_1M.txt,848,999153
+1 million de pi.txt,849,999153
+carree_1M.txt,849,999152
+1 million de pi.txt,850,999152
+carree_1M.txt,850,999151
+1 million de pi.txt,851,999151
+carree_1M.txt,851,999150
+1 million de pi.txt,852,999150
+carree_1M.txt,852,999149
+1 million de pi.txt,853,999149
+carree_1M.txt,853,999148
+1 million de pi.txt,854,999148
+carree_1M.txt,854,999147
+1 million de pi.txt,855,999147
+carree_1M.txt,855,999146
+1 million de pi.txt,856,999146
+carree_1M.txt,856,999145
+1 million de pi.txt,857,999145
+carree_1M.txt,857,999144
+1 million de pi.txt,858,999144
+carree_1M.txt,858,999143
+1 million de pi.txt,859,999143
+carree_1M.txt,859,999142
+1 million de pi.txt,860,999142
+carree_1M.txt,860,999141
+1 million de pi.txt,861,999141
+carree_1M.txt,861,999140
+1 million de pi.txt,862,999140
+carree_1M.txt,862,999139
+1 million de pi.txt,863,999139
+carree_1M.txt,863,999138
+1 million de pi.txt,864,999138
+carree_1M.txt,864,999137
+1 million de pi.txt,865,999137
+carree_1M.txt,865,999136
+1 million de pi.txt,866,999136
+carree_1M.txt,866,999135
+1 million de pi.txt,867,999135
+carree_1M.txt,867,999134
+1 million de pi.txt,868,999134
+carree_1M.txt,868,999133
+1 million de pi.txt,869,999133
+carree_1M.txt,869,999132
+1 million de pi.txt,870,999132
+carree_1M.txt,870,999131
+1 million de pi.txt,871,999131
+carree_1M.txt,871,999130
+1 million de pi.txt,872,999130
+carree_1M.txt,872,999129
+1 million de pi.txt,873,999129
+carree_1M.txt,873,999128
+1 million de pi.txt,874,999128
+carree_1M.txt,874,999127
+1 million de pi.txt,875,999127
+carree_1M.txt,875,999126
+1 million de pi.txt,876,999126
+carree_1M.txt,876,999125
+1 million de pi.txt,877,999125
+carree_1M.txt,877,999124
+1 million de pi.txt,878,999124
+carree_1M.txt,878,999123
+1 million de pi.txt,879,999123
+carree_1M.txt,879,999122
+1 million de pi.txt,880,999122
+carree_1M.txt,880,999121
+1 million de pi.txt,881,999121
+carree_1M.txt,881,999120
+1 million de pi.txt,882,999120
+carree_1M.txt,882,999119
+1 million de pi.txt,883,999119
+carree_1M.txt,883,999118
+1 million de pi.txt,884,999118
+carree_1M.txt,884,999117
+1 million de pi.txt,885,999117
+carree_1M.txt,885,999116
+1 million de pi.txt,886,999116
+carree_1M.txt,886,999115
+1 million de pi.txt,887,999115
+carree_1M.txt,887,999114
+1 million de pi.txt,888,999114
+carree_1M.txt,888,999113
+1 million de pi.txt,889,999113
+carree_1M.txt,889,999112
+1 million de pi.txt,890,999112
+carree_1M.txt,890,999111
+1 million de pi.txt,891,999111
+carree_1M.txt,891,999110
+1 million de pi.txt,892,999110
+carree_1M.txt,892,999109
+1 million de pi.txt,893,999109
+carree_1M.txt,893,999108
+1 million de pi.txt,894,999108
+carree_1M.txt,894,999107
+1 million de pi.txt,895,999107
+carree_1M.txt,895,999106
+1 million de pi.txt,896,999106
+carree_1M.txt,896,999105
+1 million de pi.txt,897,999105
+carree_1M.txt,897,999104
+1 million de pi.txt,898,999104
+carree_1M.txt,898,999103
+1 million de pi.txt,899,999103
+carree_1M.txt,899,999102
+1 million de pi.txt,900,999102
+carree_1M.txt,900,999101
+1 million de pi.txt,901,999101
+carree_1M.txt,901,999100
+1 million de pi.txt,902,999100
+carree_1M.txt,902,999099
+1 million de pi.txt,903,999099
+carree_1M.txt,903,999098
+1 million de pi.txt,904,999098
+carree_1M.txt,904,999097
+1 million de pi.txt,905,999097
+carree_1M.txt,905,999096
+1 million de pi.txt,906,999096
+carree_1M.txt,906,999095
+1 million de pi.txt,907,999095
+carree_1M.txt,907,999094
+1 million de pi.txt,908,999094
+carree_1M.txt,908,999093
+1 million de pi.txt,909,999093
+carree_1M.txt,909,999092
+1 million de pi.txt,910,999092
+carree_1M.txt,910,999091
+1 million de pi.txt,911,999091
+carree_1M.txt,911,999090
+1 million de pi.txt,912,999090
+carree_1M.txt,912,999089
+1 million de pi.txt,913,999089
+carree_1M.txt,913,999088
+1 million de pi.txt,914,999088
+carree_1M.txt,914,999087
+1 million de pi.txt,915,999087
+carree_1M.txt,915,999086
+1 million de pi.txt,916,999086
+carree_1M.txt,916,999085
+1 million de pi.txt,917,999085
+carree_1M.txt,917,999084
+1 million de pi.txt,918,999084
+carree_1M.txt,918,999083
+1 million de pi.txt,919,999083
+carree_1M.txt,919,999082
+1 million de pi.txt,920,999082
+carree_1M.txt,920,999081
+1 million de pi.txt,921,999081
+carree_1M.txt,921,999080
+1 million de pi.txt,922,999080
+carree_1M.txt,922,999079
+1 million de pi.txt,923,999079
+carree_1M.txt,923,999078
+1 million de pi.txt,924,999078
+carree_1M.txt,924,999077
+1 million de pi.txt,925,999077
+carree_1M.txt,925,999076
+1 million de pi.txt,926,999076
+carree_1M.txt,926,999075
+1 million de pi.txt,927,999075
+carree_1M.txt,927,999074
+1 million de pi.txt,928,999074
+carree_1M.txt,928,999073
+1 million de pi.txt,929,999073
+carree_1M.txt,929,999072
+1 million de pi.txt,930,999072
+carree_1M.txt,930,999071
+1 million de pi.txt,931,999071
+carree_1M.txt,931,999070
+1 million de pi.txt,932,999070
+carree_1M.txt,932,999069
+1 million de pi.txt,933,999069
+carree_1M.txt,933,999068
+1 million de pi.txt,934,999068
+carree_1M.txt,934,999067
+1 million de pi.txt,935,999067
+carree_1M.txt,935,999066
+1 million de pi.txt,936,999066
+carree_1M.txt,936,999065
+1 million de pi.txt,937,999065
+carree_1M.txt,937,999064
+1 million de pi.txt,938,999064
+carree_1M.txt,938,999063
+1 million de pi.txt,939,999063
+carree_1M.txt,939,999062
+1 million de pi.txt,940,999062
+carree_1M.txt,940,999061
+1 million de pi.txt,941,999061
+carree_1M.txt,941,999060
+1 million de pi.txt,942,999060
+carree_1M.txt,942,999059
+1 million de pi.txt,943,999059
+carree_1M.txt,943,999058
+1 million de pi.txt,944,999058
+carree_1M.txt,944,999057
+1 million de pi.txt,945,999057
+carree_1M.txt,945,999056
+1 million de pi.txt,946,999056
+carree_1M.txt,946,999055
+1 million de pi.txt,947,999055
+carree_1M.txt,947,999054
+1 million de pi.txt,948,999054
+carree_1M.txt,948,999053
+1 million de pi.txt,949,999053
+carree_1M.txt,949,999052
+1 million de pi.txt,950,999052
+carree_1M.txt,950,999051
+1 million de pi.txt,951,999051
+carree_1M.txt,951,999050
+1 million de pi.txt,952,999050
+carree_1M.txt,952,999049
+1 million de pi.txt,953,999049
+carree_1M.txt,953,999048
+1 million de pi.txt,954,999048
+carree_1M.txt,954,999047
+1 million de pi.txt,955,999047
+carree_1M.txt,955,999046
+1 million de pi.txt,956,999046
+carree_1M.txt,956,999045
+1 million de pi.txt,957,999045
+carree_1M.txt,957,999044
+1 million de pi.txt,958,999044
+carree_1M.txt,958,999043
+1 million de pi.txt,959,999043
+carree_1M.txt,959,999042
+1 million de pi.txt,960,999042
+carree_1M.txt,960,999041
+1 million de pi.txt,961,999041
+carree_1M.txt,961,999040
+1 million de pi.txt,962,999040
+carree_1M.txt,962,999039
+1 million de pi.txt,963,999039
+carree_1M.txt,963,999038
+1 million de pi.txt,964,999038
+carree_1M.txt,964,999037
+1 million de pi.txt,965,999037
+carree_1M.txt,965,999036
+1 million de pi.txt,966,999036
+carree_1M.txt,966,999035
+1 million de pi.txt,967,999035
+carree_1M.txt,967,999034
+1 million de pi.txt,968,999034
+carree_1M.txt,968,999033
+1 million de pi.txt,969,999033
+carree_1M.txt,969,999032
+1 million de pi.txt,970,999032
+carree_1M.txt,970,999031
+1 million de pi.txt,971,999031
+carree_1M.txt,971,999030
+1 million de pi.txt,972,999030
+carree_1M.txt,972,999029
+1 million de pi.txt,973,999029
+carree_1M.txt,973,999028
+1 million de pi.txt,974,999028
+carree_1M.txt,974,999027
+1 million de pi.txt,975,999027
+carree_1M.txt,975,999026
+1 million de pi.txt,976,999026
+carree_1M.txt,976,999025
+1 million de pi.txt,977,999025
+carree_1M.txt,977,999024
+1 million de pi.txt,978,999024
+carree_1M.txt,978,999023
+1 million de pi.txt,979,999023
+carree_1M.txt,979,999022
+1 million de pi.txt,980,999022
+carree_1M.txt,980,999021
+1 million de pi.txt,981,999021
+carree_1M.txt,981,999020
+1 million de pi.txt,982,999020
+carree_1M.txt,982,999019
+1 million de pi.txt,983,999019
+carree_1M.txt,983,999018
+1 million de pi.txt,984,999018
+carree_1M.txt,984,999017
+1 million de pi.txt,985,999017
+carree_1M.txt,985,999016
+1 million de pi.txt,986,999016
+carree_1M.txt,986,999015
+1 million de pi.txt,987,999015
+carree_1M.txt,987,999014
+1 million de pi.txt,988,999014
+carree_1M.txt,988,999013
+1 million de pi.txt,989,999013
+carree_1M.txt,989,999012
+1 million de pi.txt,990,999012
+carree_1M.txt,990,999011
+1 million de pi.txt,991,999011
+carree_1M.txt,991,999010
+1 million de pi.txt,992,999010
+carree_1M.txt,992,999009
+1 million de pi.txt,993,999009
+carree_1M.txt,993,999008
+1 million de pi.txt,994,999008
+carree_1M.txt,994,999007
+1 million de pi.txt,995,999007
+carree_1M.txt,995,999006
+1 million de pi.txt,996,999006
+carree_1M.txt,996,999005
+1 million de pi.txt,997,999005
+carree_1M.txt,997,999004
+1 million de pi.txt,998,999004
+carree_1M.txt,998,999003
+1 million de pi.txt,999,999003
+carree_1M.txt,999,999002
+1 million de pi.txt,1000,999002
+carree_1M.txt,1000,999001

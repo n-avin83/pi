@@ -1,4 +1,5 @@
 import time
+import csv
 
 def n_chiffres(n,f):
     start = time.time()
@@ -17,7 +18,17 @@ def n_chiffres(n,f):
     return len(sequence)
 
 if __name__ == "__main__":
-    n = int(input("n : "))
-    f = input("fichier : ")
+    nI = int(input("n init : "))
+    nF = int(input("n final : "))
 
-    print(n_chiffres(n,f))
+    en_tete = ["fichier","n chiffres","nb de sequences"]
+
+    with open("n_chiffres.csv", "w") as fichier:
+        writer = csv.writer(fichier, delimiter=",")
+        writer.writerow(en_tete)
+
+        for i in range(nI,nF+1):
+            writer.writerow(["1 million de pi.txt",i, n_chiffres(i,"1 million de pi.txt")])
+            writer.writerow(["carree_1M.txt",i, n_chiffres(i,"carree_1M.txt")])
+
+

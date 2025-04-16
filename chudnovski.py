@@ -1,50 +1,59 @@
-import time
 import gmpy2
-from gmpy2 import mpz, mpq, mpfr, fac, sqrt, get_context
-import sys
-sys.set_int_max_str_digits(0)
+from gmpy2 import mpz, mpfr, get_context, sqrt
+import math
+import time
 
-def chudnovsky_term(k):
-    """Calcule le k-ième terme de la série de Chudnovsky."""
-    # Constantes
-    C = 426880 * sqrt(mpfr(10005))
-    
-    # Termes du numérateur et dénominateur
-    numerator = mpz(fac(6*k)) * (545140134*k + 13591409)
-    denominator = mpz(fac(3*k)) * (fac(k)**3) * (mpz(640320)**(3*k))
+# Constantes Chudnovsky
+A = mpz(13591409)
+B = mpz(545140134)
+C3_OVER_24 = mpz(640320)**3 // 24
 
-    return mpq(numerator, denominator)
-
-
-def calcule_pi_chudnovsky(D):
-    """Calcule π avec D décimales de précision grâce à la formule de Chudnovsky."""
-    get_context().precision = D * 4  # sécurité
-    total = mpq(0)
-    k = 0
-
-    # Combien de termes pour D décimales ? Environ D / 14
-    max_k = D // 14 + 1
-
-    for k in range(max_k):
-        term = chudnovsky_term(k)
-        if k % 2 == 1:
-            total -= term
+def bs(a, b):
+    if b - a == 1:
+        if a == 0:
+            P = Q = mpz(1)
         else:
-            total += term
+            k = mpz(a)
+            P = (6*k - 5)*(2*k - 1)*(6*k - 1)
+            Q = k**3 * C3_OVER_24
+        T = P * (A + B * a)
+        if a % 2:
+            T = -T
+        return (P, Q, T)
+    else:
+        m = (a + b) // 2
+        P1, Q1, T1 = bs(a, m)
+        P2, Q2, T2 = bs(m, b)
+        return (P1 * P2, Q1 * Q2, Q2 * T1 + P1 * T2)
 
-    C = 426880 * sqrt(mpfr(10005))
-    pi = C / total
-    return +pi
+def compute_pi(digits):
+    # On met assez de bits pour représenter tous les chiffres (log2(10) ≈ 3.32193)
+    get_context().precision = int(digits * math.log2(10)) + 100
+
+    terms = int(digits / math.log10(53360)) + 1
+    P, Q, T = bs(0, terms)
+
+    # C doit être de type mpfr pour préserver la précision
+    C = mpfr(426880) * sqrt(mpfr(10005))
+
+    pi = C * Q / T  # Tout est en mpfr maintenant
+    return pi
+
+def format_pi(pi, digits):
+    # Multiplier par 10^digits pour décaler la virgule
+    scaled_pi = gmpy2.floor(pi * gmpy2.pow(10, digits))
+    s = scaled_pi.digits()
+
+    # Remettre la virgule après 1 chiffre
+    return s[0] + '.' + s[1:].ljust(digits, '0')
 
 
 if __name__ == "__main__":
-    D = 1_000_000  # décimales souhaitées
+    digits = 100_000
     start = time.time()
+    pi = compute_pi(digits)  # ou 20 si tu veux exploiter tous tes cœurs
 
-    pi = calcule_pi_chudnovsky(D)
-
-    # Sauvegarde efficace
-    with open("pi_chudnovsky.txt", "w") as f:
+    with open("pi_chudnovski.txt", "w") as f:
         f.write(str(pi))
 
     print(f"Temps total : {time.time() - start:.2f} secondes")

@@ -12,3 +12,5 @@ puissance 2, nombres 8 chiffres (1 million de decimales): 995 280
 
 
 new : calacul pi machin (1 millions) : 5 minutes et 40s 
+
+new record : calcul pi chudnovski (1 millions) : 0.88 seconde

@@ -22,7 +22,7 @@ def test(f):
 
 if __name__ == "__main__":
     # Test de la fonction
-    f = "pi_test.txt"
+    f = "pi_chudnovski.txt"
     erreur = test(f)
     print(f"Nombre d'erreurs : {erreur}")
 

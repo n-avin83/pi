@@ -1,2 +1,2 @@
 # pi
-TIPE Nathan Vinel et Gianni Vallet MPSI DUmont d'Urville
+TIPE Nathan Vinel et Gianni Vallet MPSI Dumont d'Urville
